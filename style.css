@@ -1,0 +1,27 @@
+body {
+  background-color: aquamarine;
+}
+main {
+  display: grid;
+  place-items: center;
+  position: relative;
+  min-height: 100vh;
+}
+#head {
+  position: absolute;
+  bottom: 400px;
+  right: 1200px;
+}
+.heye{
+  position:absolute
+  ;
+}
+#rick {
+  height: 700px;
+  width: 700px;
+  /* filter:hue-rotate(90); */
+}
+.eye,
+#eyes {
+  position: absolute;
+}
